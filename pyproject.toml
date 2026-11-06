@@ -1,0 +1,16 @@
+[project]
+name = "mnist-classification-using-random-forest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cleanlab>=2.9.0",
+    "icecream>=2.2.0",
+    "ipywidgets>=8.1.9",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+]
